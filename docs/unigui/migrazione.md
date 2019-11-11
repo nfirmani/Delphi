@@ -1,5 +1,6 @@
 Migrazione sul framework *UNIGUI*:
 
+![002](/images/ch01/Attenzione_bis.png)
 
 ![001](/images/ch01/Attenzione_bis.png)
 ![001](/images/ch01/Attenzione_ilToolbar_da%20eliminare.png)
