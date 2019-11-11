@@ -229,14 +229,28 @@ end.
 
 ```
 
-
+Immagine_error_cannot_assign-a_nil_to_a_TFont_soluzione_TUniRadioGroup
 ![001](/docs/unigui/images/ch01/Immagine_error_cannot_assign-a_nil_to_a_TFont_soluzione_TUniRadioGroup.png)
+
+Immagine_error_cannot_assign-a_nil_to_a_TFont
 ![001](/docs/unigui/images/ch01/Immagine_error_cannot_assign-a_nil_to_a_TFont.png)
+
+Immagine_paAreaPulsanti
 ![001](/docs/unigui/images/ch01/Immagine_paAreaPulsanti.png)
+
+Immagine_sostituire_TfmUGDBTools_con%20TfmUGTools
 ![001](/docs/unigui/images/ch01/Immagine_sostituire_TfmUGDBTools_con%20TfmUGTools.png)
+
+Immagine_sostituire_TfmUGDBTools
 ![001](/docs/unigui/images/ch01/Immagine_sostituire_TfmUGDBTools.png)
+
+Immagine_TUniDBCheckboxEnh
 ![001](/docs/unigui/images/ch01/Immagine_TUniDBCheckboxEnh.png)
+
+Immagine_UniURLFrame
 ![001](/docs/unigui/images/ch01/Immagine_UniURLFrame.png)
+
+Immagine_uses_uniGUIApplication
 ![001](/docs/unigui/images/ch01/Immagine_uses_uniGUIApplication.png)
 
 Immagine1
