@@ -1,4 +1,4 @@
-Migrazione sul framework *UNIGUI*:
+*Migrazione del progetto SC sul framework UNIGUI*:
 
 Attenzione_ilToolbar_da eliminare
 ![001](/docs/unigui/images/ch01/Attenzione_ilToolbar_da%20eliminare.png)
@@ -13,10 +13,10 @@ Attenzione_bis
 unit dm_TipoAtto;
 interface
 uses
-  System.SysUtils, System.Classes, dm_cnt, Data.DB, Data.FMTBcd, 
-  Datasnap.Provider, Datasnap.DBClient, FireDAC.Phys.FB, FireDAC.Stan.Intf, 
-  FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, 
-  FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt, 
+  System.SysUtils, System.Classes, dm_cnt, Data.DB, Data.FMTBcd,
+  Datasnap.Provider, Datasnap.DBClient, FireDAC.Phys.FB, FireDAC.Stan.Intf,
+  FireDAC.Stan.Option, FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS,
+  FireDAC.Phys.Intf, FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt,
   FireDAC.Comp.DataSet, FireDAC.Comp.Client, FireDAC.DBX.Migrate, ClientViewFD,
   FireDAC.UI.Intf, FireDAC.Stan.Def, FireDAC.Stan.Pool, FireDAC.Phys,
   FireDAC.VCLUI.Wait, FDSQLConnection;
