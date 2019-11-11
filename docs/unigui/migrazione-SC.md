@@ -1,4 +1,4 @@
-*Migrazione del progetto SC sul framework UNIGUI*:
+**Migrazione del progetto SC sul framework *UNIGUI* :**
 
 Attenzione_ilToolbar_da eliminare
 ![001](/docs/unigui/images/ch01/Attenzione_ilToolbar_da%20eliminare.png)
